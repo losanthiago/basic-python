@@ -1,4 +1,3 @@
-Resultados de tradução
 BASIC PYTHON DEVELOPMENT:
 
 clock-stlized.py = clock styled (not so much)
